@@ -4,6 +4,8 @@ Welcome to my GitHub, My name is Jack and I am a **Junior Data Engineer** with S
 
 I also have some experience with Software development, inside you will find info about who i am and the projects I have worked on
 
+FYI This readme is a work in progress and will be updated when I have some time available so stay tuned
+
 # Table Of Contents
 
 - [About me](#item-one)
