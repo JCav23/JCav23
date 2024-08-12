@@ -1,4 +1,4 @@
-# Hi there 👋
+# :dragon: Hi there 👋
 
 Welcome to my GitHub, My name is Jack and I am a **Junior Data Engineer** with Sparta Global 
 
@@ -12,11 +12,9 @@ FYI This readme is a work in progress and will be updated when I have some time 
 - [Skills](#item-two)
 - [Projects](#item-three)
 
-# :dragon: About Me
+# :dragon: TechStack
 
-This is me... (or at least what an AI thinks i look like)
-
-<img src="https://jackcavanagh.tech/Images/AIProfile_2.png" alt="ai profile img" width=300 height=300>
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css,py,pycharm,django,flask,vscode,heroku,aws,docker,mongodb,mysql,postgres,sqlite,sklearn,tensorflow&perline=5)](https://skillicons.dev)
 
 <!--
 **JCav23/JCav23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
