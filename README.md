@@ -8,7 +8,7 @@ FYI This readme is a work in progress and will be updated when I have some time 
 
 # :dragon: TechStack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,pycharm,django,flask,jquery,vscode,mysql,postgres,sqlite,,mongodb,sklearn,tensorflow,heroku,aws,docker&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,pycharm,django,flask,jquery,vscode,mysql,postgres,sqlite,mongodb,sklearn,tensorflow,heroku,aws,docker&perline=3)](https://skillicons.dev)
 
 # Diploma In Full Stack Software Development
 
