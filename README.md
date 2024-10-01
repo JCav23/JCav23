@@ -10,7 +10,7 @@ FYI This readme is a work in progress and will be updated when I have some time 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,pycharm,django,flask,jquery,vscode,mysql,postgres,sqlite,mongodb,sklearn,tensorflow,heroku,aws,docker&perline=3)](https://skillicons.dev)
 
-# Diploma In Full Stack Software Development
+# :scroll: Diploma In Full Stack Software Development
 
 Alongside my current role I completed a year long diploma. Below are the 5 milestone projects I completed as part of the course:
 
@@ -25,6 +25,10 @@ Alongside my current role I completed a year long diploma. Below are the 5 miles
 - [Helpful History](https://github.com/JCav23/Project1-HelpfulHistory-HenryVIII):scroll::
   * Static webpage for history surrounding Henry VIII
 
+# :trident: Sparta Data Engineering Training
+
+My full-time role started with an intensive training regime, covering fundamental skills of Data Engineering. This repo is rather rough and ready containing my notes and work completed during the training. This is not completely comprehensive as there are projects and tasks that were completed within collaborative repos elsewhere. 
+- [My Training](https://github.com/JCav23/Sparta)
 <!--
 **JCav23/JCav23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
